@@ -5,4 +5,4 @@
 #=================================================
 
 nodejs_version="20"
-nodebb_version=v3.x
+nodebb_version=v4.x
